@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "747156391513",
+    "project_id": "projeto-integrador-iv-6b106",
+    "storage_bucket": "projeto-integrador-iv-6b106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747156391513:android:8b0fa825855c9300475348",
+        "android_client_info": {
+          "package_name": "com.puc.projiv.governance.projiv_gov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747156391513-tdtfgkgir9meddqrhuhq59842oht5170.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAztx9_bY9CjXGRknRvhwjl5XkRJFtgg0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747156391513-tdtfgkgir9meddqrhuhq59842oht5170.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "747156391513-70c5oo771hmnllcp6olkqkuimv5uet95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.puc.projiv.governance.projivGov"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
